@@ -11,7 +11,7 @@ https://openaccess.thecvf.com/content/CVPR2026W/MSLR/papers/Al-Azani_TWASEL_at_S
 @inproceedings{al2026twasel,
   title={TWASEL at SignEval 2026: Adaptive Multi-Stream Pose Fusion for Continuous Sign Language Recognition},
   author={Al-Azani, Sadam and Nabeel, Safwan and Al Mahfood, Qasim and Mohamed, Mohanad},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages={10473--10480},
   year={2026}
 }
